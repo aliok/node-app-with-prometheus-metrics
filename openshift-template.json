@@ -186,7 +186,7 @@
       "description": "The OpenShift Namespace where the ImageStream resides.",
       "required": true,
       "value": "openshift"
-    }
+    },
     {
       "name": "SOURCE_REPOSITORY_URL",
       "displayName": "Git Repository URL",
